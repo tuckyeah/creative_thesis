@@ -819,3 +819,11 @@ h3 {
         text-shadow: 0 0 30px rgba(255, 0, 84, 0.6), 0 0 60px rgba(255, 0, 84, 0.4), 0 0 100px rgba(255, 0, 84, 0.2), 0 0 90px rgba(255, 0, 84, 0.8);
     }
 }
+
+#candy:hover {
+    font-style: italic;
+}
+
+#letter .section-1 {
+    margin-top: 150px;
+}

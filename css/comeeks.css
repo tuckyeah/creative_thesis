@@ -241,3 +241,12 @@ td p {
 .prev:hover {
     color: #105B63;
 }
+
+#insideBar {
+    background-image: url('../imgs/bar2.jpg');
+    background-size: cover;
+}
+#table {
+    background-image: url('../imgs/table.jpg');
+    background-size: cover;
+}
